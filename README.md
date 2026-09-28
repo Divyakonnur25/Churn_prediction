@@ -201,7 +201,7 @@ Churn_prediction/
 ├── requirements.txt
 └── README.md
 
-
+```
 ### Your complete flow is
 
 ```text
@@ -220,7 +220,7 @@ Enter Customer Details
 Predict Churn
 
 
-
+```
 ## 👩‍💻 Author
 
 **Divya Konnur**
