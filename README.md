@@ -226,7 +226,7 @@ Predict Churn
 
 Try the deployed Streamlit application:
 
-[Customer Churn Prediction App]([YOUR_STREAMLIT_APP_URL](https://7g5mfate7gfbmthfyvipng.streamlit.app/#prediction-result))
+[Customer Churn Prediction App](https://7g5mfate7gfbmthfyvipng.streamlit.app/#prediction-result)
 ## 👩‍💻 Author
 
 **Divya Konnur**
