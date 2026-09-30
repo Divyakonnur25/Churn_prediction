@@ -175,6 +175,23 @@ These risk thresholds are business rules defined for the application and are not
 - Jupyter Notebook
 
 ---
+## 📸 Application Screenshots
+
+### Streamlit Application
+
+![Streamlit App](Screenshot/app_demo.png)
+
+### Customer Churn Prediction
+
+![Prediction Result](Screenshot/prediction.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](Screenshot/confusion_matrix.png)
+
+### ROC Curve
+
+![ROC Curve](Screenshot/roc.png)
 ## 🤖 AI-Assisted Development
 
 AI tools were used as a development assistant while building the Streamlit application.
@@ -202,25 +219,8 @@ Churn_prediction/
 └── README.md
 
 ```
-### Your complete flow is
-
-```text
-Clone Repository
-       ↓
-Open Project Folder
-       ↓
-pip install -r requirements.txt
-       ↓
-streamlit run app.py
-       ↓
-Open localhost:8501
-       ↓
-Enter Customer Details
-       ↓
-Predict Churn
 
 
-```
 
 ## 🌐 Live Demo
 
