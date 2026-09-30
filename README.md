@@ -175,11 +175,11 @@ The application allows users to enter customer information and receive:
 
 ### Streamlit Application
 
-![Streamlit Application](Screenshot/app_demo.png)
+![Streamlit App](Screenshot/app_demo.png)
 
-### Prediction Result
+### Customer Churn Prediction
 
-![Prediction Result](Screenshot/prediction_new.png)
+![Prediction Result](Screenshot/prediction.png)
 
 ### Confusion Matrix
 
